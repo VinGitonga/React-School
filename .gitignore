@@ -1,0 +1,4 @@
+/node_modules
+/components
+yarn-error.log*
+debug.log*
